@@ -1,2 +1,2 @@
 # Js-problem-solving-
-practice
+js practice
