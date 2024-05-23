@@ -1,4 +1,4 @@
-const Prompt = require("prompt-sync") ();
+
 
 let score= Number(prompt('your score'))
 
@@ -6,7 +6,7 @@ if(score>=90 && score<=100){
     console.log('grade A')
 }
 else if(score>=80 && score<=89){
-    console.log('grade c')
+    console.log('grade b')
 
 }
 
